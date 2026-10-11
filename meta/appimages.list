@@ -65,6 +65,7 @@ constrict	pkgforge-dev/Constrict-AppImage	Constrict-.*_64\.AppImage	Unofficial A
 contour	pkgforge-dev/contour-AppImage	Contour-.*.8982-1-anylinux-x86_64\.AppImage	Unofficial AppImage of the Contour Terminal Emulator [Maintainer=@domesya]	contour	Game	Y
 copyq	pkgforge-dev/CopyQ-AppImage	CopyQ-.*_64\.AppImage	Unofficial AppImage of CopyQ [Maintainer=@Samueru-sama]	copyq	Utility	N
 corsixth	pkgforge-dev/CorsixTH-AppImage-Enhanced	CorsixTH-v.*_64\.AppImage	Unofficial AppImage of CorsixTH [Maintainer=@Link4Electronics]	corsixth	Utility	N
+craft-launcher	https://github.com/storytold/craft-launcher	artcraft-launcher-.*_64\.AppImage	The Craft App Launcher	craft-launcher	Utility	N
 crispy-doom	pkgforge-dev/Crispy-Doom-AppImage	Crispy_Doom-.*_64\.AppImage	Unofficial AppImage of Crispy Doom [Maintainer=@Link4Electronics]	crispy-doom	Utility	N
 cromagrally	pkgforge-dev/CroMagRally-AppImage-Enhanced	Cro-Mag_Rally-.*_64\.AppImage	Unofficial AppImage of CroMagRally [Maintainer=@Link4Electronics]	cromagrally	Utility	N
 cromite	pkgforge-dev/Cromite-AppImage	Cromite-v.*.37-anylinux-x86_64\.AppImage	Unofficial AppImage of the Cromite web browser. [Maintainer=@Samueru-sama]	cromite	Network	N

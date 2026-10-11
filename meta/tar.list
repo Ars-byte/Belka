@@ -19,6 +19,7 @@ aws-nuke	ekristen/aws-nuke	aws-nuke-v.*\.tar\.gz	Remove all the resources from a
 b3sum	BLAKE3-team/BLAKE3	b3sum_linux_x64_bin	the official Rust and C implementations of the BLAKE3 cryptographic hash function	b3sum	Utility	N
 bandwhich	imsnif/bandwhich	bandwhich-v.*_64-unknown-linux-gnu\.tar\.gz	Terminal bandwidth utilization tool	bandwhich	Utility	Y
 bat	sharkdp/bat	bat-v.*_64-unknown-linux-gnu\.tar\.gz	A cat(1) clone with wings.	bat	Utility	N
+belka	ezequielgk/Belka	belka-linux-amd64\.tar\.gz	Belka — a POSIX-compliant tarball manager. Installs and updates tarball packages atomically, with checksum verification and rollback.	belka	Utility	Y
 binfmt	tonistiigi/binfmt	binfmt_linux-amd64\.tar\.gz	Cross-platform emulator collection distributed with Docker images.	binfmt	Game	N
 binsider	orhun/binsider	binsider-.*_64-unknown-linux-gnu\.tar\.gz	Analyze ELF binaries like a boss 😼🕵️‍♂️	binsider	Utility	N
 bluetuith	bluetuith-org/bluetuith	bluetuith_.*_Linux_x86_64\.tar\.gz	A cross-platform TUI bluetooth manager.	bluetuith	Utility	N
@@ -37,6 +38,7 @@ clipcat	xrelkd/clipcat	clipcat-.*_64-unknown-linux-musl\.tar\.gz	A clipboard man
 concord	chojs23/concord	concord-x86_64-unknown-linux-gnu\.tar\.xz	A feature-rich TUI client for Discord	concord	Utility	Y
 cosign	sigstore/cosign	cosign-linux-amd64	Code signing and transparency for containers and binaries	cosign	Development	N
 cpufetch	Dr-Noob/cpufetch	cpufetch_x86-64_linux	Simple yet fancy CPU architecture fetching tool	cpufetch	Utility	N
+craft-launcher	https://github.com/storytold/craft-launcher	artcraft-launcher-.*_64\.tar\.gz	The Craft App Launcher	craft-launcher	Utility	N
 croc	schollz/croc	croc-web_v.*_Linux-amd64\.tar\.gz	Easily and securely send things from one computer to another :crocodile: :package:	croc	Utility	N
 csvtk	shenwei356/csvtk	csvtk_freebsd_amd64\.tar\.gz	A cross-platform, efficient and practical CSV/TSV toolkit in Golang	csvtk	Utility	N
 curlie	rs/curlie	curlie_.*_freebsd_amd64\.tar\.gz	The power of curl, the ease of use of httpie.	curlie	Utility	N
@@ -135,7 +137,6 @@ mini-vmac	pkgforge-dev/Mini-vMac-AppImage	Mini_vMac-.*_64.AppImage\.zsync	Unoffi
 miniserve	svenstaro/miniserve	miniserve-.*\.0-x86_64-unknown-linux-gnu	🌟 For when you really just want to serve some files over HTTP right now!	miniserve	Utility	N
 mise	jdx/mise	mise-v.*\.tar\.gz	dev tools, env vars, task runner	mise	Utility	N
 mkcert	FiloSottile/mkcert	mkcert-v.*\.4-linux-amd64	A simple zero-config tool to make locally trusted development certificates with any names you'd like.	mkcert	Development	N
-belka	ezequielgk/Belka	belka-linux-amd64\.tar\.gz	Belka — a POSIX-compliant tarball manager. Installs and updates tarball packages atomically, with checksum verification and rollback.	belka	Utility	Y
 navi	denisidoro/navi	navi-v.*_64-unknown-linux-musl\.tar\.gz	An interactive cheatsheet tool for the command-line	navi	Utility	N
 ncdu	yorhel/ncdu	TEMPLATE|https://dev.yorhel.nl/download/ncdu-@VERSION@-linux-x86_64.tar.gz|2.7	Aplicacion Externa	ncdu	Utility	N
 neovim	neovim/neovim	nvim-linux-x86_64\.tar\.gz	Vim-fork focused on extensibility and usability	neovim	Utility	N
