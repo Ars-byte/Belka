@@ -175,6 +175,7 @@ soft-serve	charmbracelet/soft-serve	soft-serve_.*_Freebsd_x86_64\.tar\.gz	The mi
 sops	getsops/sops	sops-v.*.linux\.amd64	Simple and flexible tool for managing secrets	sops	Utility	N
 splitux	splitux-gg/splitux	splitux-v.*_64\.tar\.gz	Local co-op split-screen launcher for Linux	splitux	Utility	N
 spotifast	https://github.com/crmne/spotifast	spotifast-v.*_64-unknown-linux-gnu\.tar\.gz	Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.	spotifast	Utility	N
+spotify-appimage	https://github.com/ivan-hc/Spotify-AppImage	Spotify-candidate-.*.518.g366879e1-x86_64.AppImage\.zsync	Unofficial AppImage for Spotify built on top of the Snap package.	spotify-appimage	Utility	N
 starship	starship/starship	starship-x86_64-unknown-linux-gnu\.tar\.gz	☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!	starship	Utility	N
 stern	stern/stern	stern_.*_linux_amd64\.tar\.gz	⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern	stern	Utility	N
 sttr	abhimanyu003/sttr	sttr_Freebsd_x86_64\.tar\.gz	cross-platform, cli app to perform various operations on string	sttr	Utility	Y

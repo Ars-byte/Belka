@@ -372,6 +372,7 @@ spek	pkgforge-dev/Spek-AppImage	Spek-.*_64\.AppImage	Unofficial AppImage of Spek
 splitux	splitux-gg/splitux	Splitux-v.*_64\.AppImage	Local co-op split-screen launcher for Linux	splitux	Utility	N
 spotifast	https://github.com/crmne/spotifast	spotifast-.*_64\.AppImage	Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.	spotifast	Utility	N
 spotiflac	https://github.com/spotbye/SpotiFLAC	SpotiFLAC\.AppImage	Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.	spotiflac	Audio	N
+spotify-appimage	https://github.com/ivan-hc/Spotify-AppImage	Spotify-candidate-.*.518.g366879e1-x86_64\.AppImage	Unofficial AppImage for Spotify built on top of the Snap package.	spotify-appimage	Utility	N
 srb2	pkgforge-dev/SRB2-AppImage	Sonic_Robo_Blast_2-.*_64\.AppImage	Unofficial AppImage of SRB2 [Maintainer=@Link4Electronics]	srb2	Utility	N
 srb2kart	pkgforge-dev/SRB2Kart-AppImage	SRB2Kart-.*_64\.AppImage	Unofficial AppImage of SRB2kart [Maintainer=@Link4Electronics]	srb2kart	Utility	N
 st	pkgforge-dev/st-AppImage	st-.*_64\.AppImage	Unofficial AppImage of the suckless terminal st [Maintainer=@Samueru-sama]	st	Utility	Y
