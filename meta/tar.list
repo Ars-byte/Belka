@@ -11,6 +11,7 @@ alterx	projectdiscovery/alterx	alterx_.*_linux_amd64\.zip	Fast and customizable 
 amass	OWASP/Amass	amass_linux_amd64\.tar\.gz	In-depth attack surface mapping and asset discovery	amass	Utility	N
 amdgpu_top	Umio-Yasuno/amdgpu_top	amdgpu_top-.*_64-unknown-linux-gnu\.tar\.gz	Tool to display AMDGPU usage	amdgpu_top	Utility	N
 amp	jmacdonald/amp	amp-x86_64-unknown-linux-musl	A complete text editor for your terminal.	amp	Development	Y
+animfetch	https://github.com/Andrew-Velox/animfetch	animfetch-v.*_64-unknown-linux-musl\.tar\.gz	Animated system fetch that stays pinned above your shell while you work. Linux, no dependencies. 🦀	animfetch	Utility	N
 appimagetool	pkgforge-dev/appimagetool	appimagetool-corresponding-source-dwarfs-.*\.tar\.xz	A Rust implementation of appimagetool for the Anylinux-AppImages project.	appimagetool	Utility	N
 arduino-cli	arduino/arduino-cli	arduino-cli_.*_Linux_64bit\.tar\.gz	Arduino command line tool	arduino-cli	Utility	N
 atuin	atuinsh/atuin	atuin-server-x86_64-unknown-linux-gnu\.tar\.gz	✨ Making your shell magical	atuin	Utility	N
@@ -54,6 +55,7 @@ dufs	sigoden/dufs	dufs-v.*_64-unknown-linux-musl\.tar\.gz	A file server that sup
 dummyhttp	svenstaro/dummyhttp	dummyhttp-.*\.3-x86_64-unknown-linux-gnu	Super simple HTTP server that replies a fixed body with a fixed response code	dummyhttp	Development	N
 dust	bootandy/dust	dust-v.*_64-unknown-linux-gnu\.tar\.gz	A more intuitive version of du in rust	dust	Utility	N
 dyff	homeport/dyff	dyff_.*_linux_amd64\.tar\.gz	/ˈdʏf/ - diff tool for YAML files, and sometimes JSON	dyff	Utility	N
+epubworm	https://github.com/xinghao-wu/epubworm	epubworm-linux-x86_64\.tar\.gz	Image-capable TUI EPUB reader	epubworm	Utility	N
 eza	eza-community/eza	eza_x86_64-unknown-linux-gnu\.tar\.gz	A modern alternative to ls	eza	Utility	N
 f2	ayoisaiah/f2	f2_.*_linux_amd64\.tar\.gz	F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!	f2	Utility	N
 fastfetch	fastfetch-cli/fastfetch	fastfetch-dragonfly-amd64\.tar\.gz	A maintained, feature-rich and performance oriented, neofetch like system information tool.	fastfetch	Utility	N
@@ -73,6 +75,7 @@ fzf	junegunn/fzf	fzf-.*_amd64\.tar\.gz	:cherry_blossom: A command-line fuzzy fin
 gba-emulator	amyanger/gba-emulator	gba_emulator-.*_64\.tar\.gz	A Game Boy Advance emulator written in C, targeting Pokemon Emerald. ARM7TDMI CPU interpreter with scanline-based PPU and SDL2 frontend.	gba-emulator	Game	N
 gdu	dundee/gdu	gdu_freebsd_amd64\.tgz	Fast disk usage analyzer with console interface written in Go	gdu	Utility	N
 genact	svenstaro/genact	genact-.*\.0-x86_64-unknown-linux-gnu	🌀 A nonsense activity generator	genact	Utility	N
+genovalauncher	https://github.com/Ars-byte/GenovaLauncher	GenovaLauncher-.*\.tar\.gz	A modern graphical launcher for Minecraft: Bedrock Edition on Linux, built with PySide6 (Qt6) and powered by the mcpelauncher-manifest project.	genovalauncher	Development	N
 gh	cli/cli	gh_.*_linux_amd64\.tar\.gz	GitHub’s official command line tool	gh	Utility	N
 git-cliff	orhun/git-cliff	git-cliff-.*_64-unknown-linux-gnu\.tar\.gz	A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️	git-cliff	Utility	N
 gitleaks	gitleaks/gitleaks	gitleaks_.*_linux_x64\.tar\.gz	Find secrets with Gitleaks 🔑	gitleaks	Utility	N
@@ -99,6 +102,7 @@ httpx	projectdiscovery/httpx	httpx_.*_linux_amd64\.zip	httpx is a fast and multi
 hugo	gohugoio/hugo	hugo_.*_dragonfly-amd64\.tar\.gz	The world’s fastest framework for building websites.	hugo	Network	N
 hwatch	blacknon/hwatch	hwatch-.*.x86_64-unknown-linux-gnu\.tar\.gz	hwatch: alternative watch command with history, diff view, JSONL logging, and change hooks. since 2018.	hwatch	Utility	N
 hyperfine	sharkdp/hyperfine	hyperfine-v.*_64-unknown-linux-gnu\.tar\.gz	A command-line benchmarking tool	hyperfine	Utility	N
+imgview	https://github.com/Ars-byte/Imgview	imgview-x86_64\.tar\.gz	Image viewer for tty in cpp	imgview	Utility	N
 intermodal	casey/intermodal	imdl-v.*_64-unknown-linux-musl\.tar\.gz	command-line utility for BitTorrent torrent file creation, verification, and more	intermodal	Utility	N
 istio	istio/istio	istio-.*\.tar\.gz	Connect, secure, control, and observe services.	istio	Utility	N
 jaq	01mf02/jaq	jaq-x86_64-unknown-linux-gnu	A jq clone focussed on correctness, speed, and simplicity	jaq	Utility	N
@@ -132,6 +136,7 @@ lsd	lsd-rs/lsd	lsd-v.*_64-unknown-linux-gnu\.tar\.gz	The next gen ls command	lsd
 macchina	Macchina-CLI/macchina	macchina-v.*_64\.tar\.gz	A system information frontend with an emphasis on performance.	macchina	Utility	N
 mcfly	cantino/mcfly	mcfly-v.*_64-unknown-linux-musl\.tar\.gz	Fly through your shell history. Great Scott!	mcfly	Utility	N
 melt	charmbracelet/melt	melt_.*_Freebsd_x86_64\.tar\.gz	Backup and restore Ed25519 SSH keys with seed words 🫠	melt	Utility	N
+mfetch	https://github.com/rachelambda/mfetch	INREPO	Minimalist fetch	mfetch	Utility	N
 micro	micro-editor/micro	micro-.*\.tar\.gz	A modern and intuitive terminal-based text editor	micro	Development	Y
 mini-vmac	pkgforge-dev/Mini-vMac-AppImage	Mini_vMac-.*_64.AppImage\.zsync	Unofficial AppImage of Mini vMac [Maintainer=@Link4Electronics]	mini-vmac	Utility	N
 miniserve	svenstaro/miniserve	miniserve-.*\.0-x86_64-unknown-linux-gnu	🌟 For when you really just want to serve some files over HTTP right now!	miniserve	Utility	N
@@ -156,6 +161,7 @@ prism-launcher	PrismLauncher/PrismLauncher	PrismLauncher-Linux-Qt6-Portable-.*\.
 procs	dalance/procs	procs-v.*_64-linux\.zip	A modern replacement for ps written in Rust	procs	Utility	N
 pueue	Nukesor/pueue	pueue-x86_64-unknown-freebsd	:stars: Manage your shell commands.	pueue	Utility	N
 pulumi	pulumi/pulumi	pulumi-v.*\.tar\.gz	Pulumi - Infrastructure as Code in any programming language 🚀	pulumi	Development	N
+ramfetch	https://codeberg.org/jahway603/ramfetch	v.*a\.tar\.gz	A fetch which displays memory info using /proc/meminfo	ramfetch	Utility	N
 ranger	https://github.com/ranger/ranger	INREPO	A VIM-inspired filemanager for the console	ranger.py	Utility	N
 rclone	rclone/rclone	rclone-v.*\.zip	rsync for cloud storage - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files	rclone	Utility	N
 restic	restic/restic	restic_.*_dragonfly_amd64\.bz2	Fast, secure, efficient backup program	restic	Utility	N
@@ -188,8 +194,10 @@ task	go-task/task	task_freebsd_amd64\.tar\.gz	A fast, cross-platform build tool 
 tealdeer	dbrgn/tealdeer	tealdeer-linux-x86_64-musl	A very fast implementation of tldr in Rust.	tealdeer	Utility	N
 television	alexpasmantier/television	tv-.*_64-unknown-linux-gnu\.tar\.gz	A very fast, portable and hackable fuzzy finder.	television	Utility	N
 terragrunt	gruntwork-io/terragrunt	terragrunt_linux_amd64\.tar\.gz	Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.	terragrunt	Development	N
+tfm-tui	https://github.com/clarkarch/tfm-tui	tfm-ffmpeg-x86_64-linux\.gz	🖱️ Modern mouse-first terminal file manager	tfm-tui	Utility	Y
 tilt	tilt-dev/tilt	tilt..*.linux-alpine.x86_64\.tar\.gz	Define your dev environment as code. For microservice apps on Kubernetes.	tilt	Development	N
 tlrc	tldr-pages/tlrc	tlrc-v.*_64-unknown-linux-gnu\.tar\.gz	Official tldr client written in Rust.	tlrc	Utility	Y
+toofan	https://github.com/vyrx-dev/toofan	toofan_.*_linux_amd64\.tar\.gz	A minimal, lightning-fast typing TUI for your terminal	toofan	Utility	Y
 tor-browser	external/tor-browser	TEMPLATE|https://dist.torproject.org/torbrowser/@VERSION@/tor-browser-linux-x86_64-@VERSION@.tar.xz|15.0.24	Aplicacion Externa	tor-browser	Utility	N
 trippy	fujiapple852/trippy	trippy-.*_64-unknown-linux-gnu\.tar\.gz	A network diagnostic tool	trippy	Utility	N
 trivy	aquasecurity/trivy	trivy_.*_Linux-64bit\.tar\.gz	Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more	trivy	Development	N
@@ -202,11 +210,14 @@ vegeta	tsenart/vegeta	vegeta_.*_freebsd_amd64\.tar\.gz	HTTP load testing tool an
 vesktop	Vencord/Vesktop	vesktop-.*\.tar\.gz	Vesktop is a custom Discord App aiming to give you better performance and improve linux support	vesktop	Utility	N
 vhs	charmbracelet/vhs	vhs_.*_Linux_x86_64\.tar\.gz	Your CLI home video recorder 📼	vhs	Video	Y
 viddy	sachaos/viddy	viddy-v.*_64\.tar\.gz	👀 A modern watch command. Time machine and pager etc.	viddy	Utility	N
+visualboyadvance-m	https://github.com/visualboyadvance-m/visualboyadvance-m	visualboyadvance-m-Mac-x86_64-debug\.zip	The continuing development of the legendary VBA gameboy advance emulator.	visualboyadvance-m	Game	N
+voidstrap	https://github.com/KloBraticc/voidstrap	Voidstrap-osx-x64\.tar\.gz	Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.	voidstrap	Utility	N
 vscodium	VSCodium/vscodium	vscodium-cli-linux-x64-.*\.tar\.gz	binary releases of VS Code without MS branding/telemetry/licensing	vscodium	Development	N
 walk	antonmedv/walk	walk_linux_amd64	Terminal file manager	walk	Utility	Y
 wasmtime	bytecodealliance/wasmtime	wasmtime-v.*_64-android-c-api\.tar\.xz	A lightweight WebAssembly runtime that is fast, secure, and standards-compliant	wasmtime	Network	N
 watchexec	watchexec/watchexec	watchexec-.*_64-unknown-linux-gnu\.tar\.xz	Executes commands in response to file modifications	watchexec	Utility	N
 xh	ducaale/xh	xh-v.*_64-unknown-linux-musl\.tar\.gz	Friendly and fast tool for sending HTTP requests	xh	Utility	N
+xournalpp	https://github.com/xournalpp/xournalpp	xournalpp-.*_64\.tar\.gz	Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.	xournalpp	Utility	N
 xq	sibprogrammer/xq	xq_.*_linux_amd64\.tar\.gz	Command-line XML and HTML beautifier and content extractor	xq	Utility	N
 yazi	sxyazi/yazi	yazi-x86_64-unknown-linux-gnu\.zip	💥 Blazing fast terminal file manager written in Rust, based on async I/O.	yazi	Utility	Y
 yj	sclevine/yj	yj-linux-amd64	CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.	yj	Utility	Y
