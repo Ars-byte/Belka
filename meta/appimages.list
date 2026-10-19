@@ -141,6 +141,7 @@ geargrafx	pkgforge-dev/Geargrafx-AppImage	Geargrafx-.*_64\.AppImage	Unofficial A
 gearlever	pkgforge-dev/Gear-Lever-AppImage	Gear_Lever-.*_64\.AppImage	Unofficial AppImage of the Gear Lever AppImage manager application.　　　　　[Maintainer=@fiftydinar]	gearlever	Utility	N
 gearlynx	pkgforge-dev/Gearlynx-AppImage	Gearlynx-.*_64\.AppImage	Unofficial AppImage of Gearlynx [Maintainer=@Link4Electronics]	gearlynx	Utility	N
 gearsystem	pkgforge-dev/Gearsystem-AppImage	Gearsystem-.*_64\.AppImage	Unofficial AppImage of Gearsystem [Maintainer=@Link4Electronics]	gearsystem	Utility	N
+genovalauncher	https://github.com/Ars-byte/GenovaLauncher	GenovaLauncher-.*_64\.AppImage	A modern graphical launcher for Minecraft: Bedrock Edition on Linux, built with PySide6 (Qt6) and powered by the mcpelauncher-manifest project.	genovalauncher	Development	N
 ghostscript	pkgforge-dev/Ghostscript-AppImage	gs-.*_64\.AppImage	Unofficial AppImage of Ghostscript [Maintainer=@Samueru-sama]	ghostscript	Utility	N
 ghostship	pkgforge-dev/Ghostship-AppImage-Enhanced	Ghostship-.*_64\.AppImage	Unofficial AppImage of Ghostship [Maintainer=@Link4Electronics]	ghostship	Utility	N
 ghostty	pkgforge-dev/ghostty-appimage	Ghostty-.*_64\.AppImage	👻 ⚙️ AppImage for Ghostty Terminal Emulator [Maintainer=@psadi]	ghostty	Game	Y
@@ -421,6 +422,7 @@ virt-manager	pkgforge-dev/virt-manager-AppImage	virt-manager-.*_64\.AppImage	Uno
 visual-studio-code	pkgforge-dev/Visual-Studio-Code-AppImage	Visual_Studio_Code-.*_64\.AppImage	Unofficial AppImage of Visual Studio Code [Maintainer=@Link4Electronics]	visual-studio-code	Development	N
 visualboyadvance-m	pkgforge-dev/VisualBoyAdvance-M-AppImage	VisualBoyAdvance-M-eb8033867-anylinux-x86_64\.AppImage	Unofficial AppImage of VisualBoyAdvance-M [Maintainer=@Link4Electronics]	visualboyadvance-m	Utility	N
 vita3k	pkgforge-dev/Vita3K-AppImage-Enhanced	Vita3K-r4106\.d7edcbe9-anylinux-x86_64\.AppImage	Unofficial AppImage of Vita3K [Maintainer=@Samueru-sama]	vita3k	Utility	N
+voidstrap	https://github.com/KloBraticc/voidstrap	Voidstrap_.*.7_x86_64\.AppImage	Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.	voidstrap	Utility	N
 vokoscreenng	pkgforge-dev/vokoscreenNG-AppImage	vokoscreenNG-.*_64\.AppImage	Unofficial AppImage of vokoscreenNG [Maintainer=@Samueru-sama]	vokoscreenng	Utility	N
 vscodium	VSCodium/vscodium	VSCodium-.*_64\.AppImage	binary releases of VS Code without MS branding/telemetry/licensing	vscodium	Development	N
 vypresschat	pkgforge-dev/VypressChat-AppImage	VypressChat-.*_64\.AppImage	Unofficial AppImage of VypressChat [Maintainer=@mmtrt]	vypresschat	Utility	N
